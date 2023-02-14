@@ -1,4 +1,4 @@
-# CS3219-AY22-23 G26
+# PeerPrep for CS3219-AY22-23 G26
 
 ## Setup
 
