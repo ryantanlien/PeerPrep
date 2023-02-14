@@ -1,5 +1,8 @@
 # PeerPrep for CS3219-AY22-23 G26
 
+## Project Reqirements
+More on the project requirements and a specification document of what has been implemented can be found under the /docs portion of this repository.
+
 ## Setup
 
 **Note: Even after running this setup, you will not have the ability to run the application as production endpoints such as databases deployed on AWS have been taken down to prevent accumulating costs**
