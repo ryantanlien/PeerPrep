@@ -1,6 +1,9 @@
 # CS3219-AY22-23 G26
 
 ## Setup
+
+**Note: Even after running this setup, you will not have the ability to run the application as production endpoints such as databases deployed on AWS have been taken down to prevent accumulating costs**
+
 Prerequisites
 1. Have Docker Desktop installed on your machine
 2. Ensure Docker Daemon is running (Docker Desktop is open)
