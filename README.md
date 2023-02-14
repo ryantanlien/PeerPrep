@@ -1,6 +1,6 @@
 # PeerPrep for CS3219-AY22-23 G26
 
-## Project Reqirements
+## Project Requirements
 More on the project requirements and a specification document of what has been implemented can be found under the /docs portion of this repository.
 
 ## Setup
