@@ -7,7 +7,7 @@ This process is done through a matching system to match users, connecting them v
 The following showcase displays some screenshots of the production application in action, after deployment to AWS.
 
 ### Dashboard
-![dashboard_showcase](./README_images//firebase_emulator.png)
+![dashboard_showcase](./README_images//dashboard_showcase.png)
 
 ### Matching
 ![matching_showcase](./README_images//matching_showcase.png)
