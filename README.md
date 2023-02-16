@@ -1,4 +1,19 @@
 # PeerPrep for CS3219-AY22-23 G26
+PeerPrep is a code challenge platform that allows it's users an opportunity to connect and collaborate with other like-minded programmers to solve classic Leetcode problems. 
+
+This process is done through a matching system to match users, connecting them via WebSockets and enabling them to work with one another using a collaborative code editor.
+
+## Project Showcase
+The following showcase displays some screenshots of the production application in action, after deployment to AWS.
+
+### Dashboard
+![dashboard_showcase](./README_images//firebase_emulator.png)
+
+### Matching
+![matching_showcase](./README_images//matching_showcase.png)
+
+## Leaving a Matched Instance
+![partnerleft_showcase](./README_images//partnerleft_showcase.png)
 
 ## Project Requirements
 More on the project requirements and a specification document of what has been implemented can be found under the /docs portion of this repository.
